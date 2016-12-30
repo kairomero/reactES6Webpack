@@ -28,8 +28,8 @@ export default class App extends Component {
 
     return (
       <header>
-        <div>Webpack is doing its thing with React and ES2015</div>
-        <div>{counter}</div>
+        <h2>Webpack is doing its thing with React and ES2015</h2>
+        <div>Contador</div>
       </header>
     );
   }
